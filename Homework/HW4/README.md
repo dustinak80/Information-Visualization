@@ -1,0 +1,2 @@
+You are hired by a non-profit organization to produce interactive visualizations of countries’ fertility rates over the period of past 60 years (1950 – 2010). In order to meet the organization’s requirements, you have outlined the following tasks and decided to execute them: 
+1.	Download the total fertility rate (children per woman) data from the UN website (http://data.un.org/). Store the data in the Excel format. Reorganize the data and clean the data so that it can be imported to Tableau. Import the data to Tableau. [15 points]
